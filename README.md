@@ -157,9 +157,9 @@ Running the `fusion_test.py` script (for example, with three modalities) generat
 
 An entry in the `.csv` might look like:
 
-| Fusion        | Model_1 | Model_2  | Model_3  |   Acc   | Recall | Precision | Avg Precision | F1-score | F1-macro | Avg Pred Time |
-|---------------|---------|----------|----------|--------:|-------:|----------:|---------------:|---------:|---------:|---------------:|
-| late_3_modal  | lenet   | mobilenet| resnet10 |  0.9962 | 0.9940 |     1.0000 |         0.6326 |   0.9970 |   0.9959 |         0.0060 |
+| Fusion        | Model_1 | Model_2  | Model_3  |   Acc   | Recall | Precision | F1-score | F1-macro | Avg Pred Time |
+|---------------|---------|----------|----------|--------:|-------:|----------:|---------:|---------:|---------------:|
+| late_3_modal  | lenet   | mobilenet| resnet10 |  0.9962 | 0.9940 |   1.0000  |  0.9970  |  0.9959  |     0.0060     |
 
 
 **Confusion Matrix of this combinations is:**
