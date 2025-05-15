@@ -64,8 +64,7 @@ TRIDENT/
 └── README.md                # Project documentation
 ```
 # Dataset
-The dataset (10GB) is not stored in this repository due to size.
-- Access: You can download the dataset from this link: [Download Dataset from Google Drive](https://drive.google.com/drive/folders/12fRKBzepelfA4897mKtPerIv6-TJyGqg?usp=sharing).
+The dataset is explained in more details and can be downloaded from this repository: [Download Dataset from Repository](https://github.com/trimodaldataset/multi-modal-drone-data).
   - Contents: Audio files in .wav format, video frame images, and RF spectrogram images (generated from I/Q data) in .jpg format. All files from different modalities are collected in a synchronized and correlated manner.
 
 # How to Run
